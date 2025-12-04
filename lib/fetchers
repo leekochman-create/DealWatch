@@ -1,0 +1,7 @@
+/lib
+  /fetchers
+    amazon.ts
+    aliexpress.ts
+    temu.ts
+    ebay.ts
+    walmart.ts
