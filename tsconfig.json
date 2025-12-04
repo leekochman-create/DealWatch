@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["*"]
+    },
+    "target": "ESNext",
+    "module": "ESNext",
+    "jsx": "preserve",
+    "moduleResolution": "bundler",
+    "allowJs": true,
+    "strict": false
+  }
+}
