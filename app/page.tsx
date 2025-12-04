@@ -19,8 +19,8 @@ export default function HomePage() {
       </h1>
 
       <p style={{ fontSize: "20px", marginBottom: "30px", color: "#444" }}>
-        השוואת מחירים בינלאומית בזמן אמת  
-        מחיר + משלוח + מע״מ לפי המדינה שלך  
+        השוואת מחירים בינלאומית בזמן אמת<br />
+        מחיר + משלוח + מע״מ לפי המדינה שלך
       </p>
 
       <button
